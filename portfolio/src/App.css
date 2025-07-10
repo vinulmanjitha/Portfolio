@@ -1,0 +1,10 @@
+html {
+  scroll-behavior: smooth;
+}
+.typewriter-text {
+    display: inline-block;
+    font-size: 2rem;
+    color: white;
+    border-right: 3px solid #333;
+    padding-right: 5px;
+}
