@@ -1,7 +1,7 @@
 import React from "react";
 import { Row, Tag, Col } from "antd";
 import { Typography } from "antd";
-import Divider from "antd";
+import {Divider} from "antd";
 
 const { Title, Text } = Typography;
 
