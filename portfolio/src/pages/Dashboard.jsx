@@ -15,7 +15,7 @@ const Dashboard = () => {
       <NavbarComponent />
       <div
         style={{
-          minHeight: "75vh",
+          minHeight: "90vh",
           display: "flex",
           justifyContent: "center",
           alignItems: "center",
@@ -43,3 +43,5 @@ const Dashboard = () => {
 };
 
 export default Dashboard;
+
+//https://drive.google.com/file/d/1VMNvnI8AQxoNrlF1IRo3ZnyvrmfXu8_r/view?usp=sharing
